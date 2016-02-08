@@ -21,6 +21,6 @@ subjectAltName = @alt_names
 
 [alt_names]
 DNS.1 = data.ecs.dfwlab.local
-DNS.2 = s3.amazonaws.com
-DNS.3 = data.s3.amazonaws.com
+DNS.2 = san1.dfwlab.local
+DNS.3 = san2.dfwlab.loca
 IP.1 = 192.168.120.9
